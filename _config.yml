@@ -1,10 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title: Generic Movie Review
+#subtitle: by HTML5 UP
+email: genericmoviereview@gmail.com
+description: We judge but only Movies
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://genericmoviereviews.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville

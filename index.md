@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Welcome to Movie Reviews'
+description: We judge, but only Movies
 image: null
 author: null
 ---
