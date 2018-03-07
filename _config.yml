@@ -4,7 +4,7 @@ title: Generic Movie Review
 email: genericmoviereview@gmail.com
 description: We judge but only Movies
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://genericmoviereviews.github.io # the base hostname & protocol for your site
+url: http://genericmovie.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
