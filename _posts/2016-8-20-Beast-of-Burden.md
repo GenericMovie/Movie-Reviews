@@ -3,9 +3,10 @@ layout: post
 title: Beast of Burden
 description: test
 image: assets/images/beast.png
+published: true
 ---
 
-Premise: Sean Haggerty only has an hour to deliver his illegal cargo. An hour to reassure a drug cartel, a hitman, and the DEA that nothing is wrong. An hour to make sure his wife survives. And he must do it all from the cockpit of his Cessna.
+## Premise: Sean Haggerty only has an hour to deliver his illegal cargo. An hour to reassure a drug cartel, a hitman, and the DEA that nothing is wrong. An hour to make sure his wife survives. And he must do it all from the cockpit of his Cessna.
 
 Review-
 
